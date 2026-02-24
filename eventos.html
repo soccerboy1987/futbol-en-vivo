@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Reproductor</title>
+
+<style>
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.player-wrapper {
+  width: 100%;
+  max-width: 1200px;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  position: relative;
+}
+
+.player-wrapper video,
+.player-wrapper iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: #000;
+}
+
+#overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #000;
+  cursor: pointer;
+}
+
+#overlay button {
+  font-size: 22px;
+  padding: 14px 24px;
+  background: #ff9900;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+
+<div class="player-wrapper" id="player"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js"></script>
+<script>
+const params = new URLSearchParams(window.location.search);
+const encoded = params.get("r"); // obtengo Base64
+let url = "";
+
+if (encoded) {
+    try {
+        url = atob(encoded); // decodifico Base64 a URL original
+    } catch (e) {
+        console.error("Error al decodificar URL:", e);
+    }
+}
+
+const container = document.getElementById("player");
+
+if (!url) {
+    container.innerHTML = "<p style='color:white'>Sin fuente</p>";
+} else if (url.toLowerCase().endsWith(".m3u8")) {
+
+    const video = document.createElement("video");
+    video.controls = true;
+    video.playsInline = true;
+    video.setAttribute("webkit-playsinline", "");
+    video.muted = true;
+
+    const overlay = document.createElement("div");
+    overlay.id = "overlay";
+    overlay.innerHTML = "<button>▶ Reproducir</button>";
+
+    container.appendChild(video);
+    container.appendChild(overlay);
+
+    let hls;
+
+    overlay.addEventListener("click", () => {
+        overlay.remove();
+        if (Hls.isSupported()) {
+            hls = new Hls();
+            hls.loadSource(url);
+            hls.attachMedia(video);
+        } else {
+            video.src = url;
+        }
+        video.play().catch(() => {});
+    });
+
+} else {
+    const iframe = document.createElement("iframe");
+    iframe.src = url;
+    iframe.allowFullscreen = true;
+    iframe.allow = "autoplay; fullscreen";
+    container.appendChild(iframe);
+}
+
+</script>
+
+</body>
+</html>

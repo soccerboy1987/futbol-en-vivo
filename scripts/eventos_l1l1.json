@@ -1,0 +1,599 @@
+[
+  {
+    "nombre": "Czech Republic Extraliga · Mlada-Boleslav vs Olomouc",
+    "hora": "10:30",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Oneplay Sport (CZ)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=60"
+      }
+    ]
+  },
+  {
+    "nombre": "Finland Mestis · TuTo vs IPK",
+    "hora": "10:30",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MTV Urheilu (FI)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=70"
+      }
+    ]
+  },
+  {
+    "nombre": "Finland Mestis · KeuPa HT vs Hermes",
+    "hora": "10:30",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MTV Urheilu (FI)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=71"
+      }
+    ]
+  },
+  {
+    "nombre": "Finland Liiga · KalPa vs Kiekko-Espoo",
+    "hora": "10:30",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MTV Urheilu 2 (FI)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=72"
+      }
+    ]
+  },
+  {
+    "nombre": "CONCACAF Championship U20 · Barbados U20 vs Sint Maarten U20",
+    "hora": "11:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Fox Soccer Plus (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=83"
+      }
+    ]
+  },
+  {
+    "nombre": "Europe UEFA Champions League · Atletico Madrid vs Club Brugge",
+    "hora": "11:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "TNT Sports 3 (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=3"
+      },
+      {
+        "nombre": "Paramount+ (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=9"
+      },
+      {
+        "nombre": "M. Liga de Campeones (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=29"
+      },
+      {
+        "nombre": "Canal+ Foot (FR)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=50"
+      },
+      {
+        "nombre": "Viaplay Sport (SE)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=78"
+      }
+    ]
+  },
+  {
+    "nombre": "Sweden SHL · Linkoping HC vs Leksands IF",
+    "hora": "12:00",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "TV4 Hockey (SE)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=74"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Pittsburgh Pirates vs Boston Red Sox",
+    "hora": "12:05",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=6"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Baltimore Orioles vs Minnesota Twins",
+    "hora": "12:05",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=10"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Detroit Tigers vs Atlanta Braves",
+    "hora": "12:05",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=41"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · New York Yankees vs Toronto Blue Jays",
+    "hora": "12:07",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=42"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Houston Astros vs New York Mets",
+    "hora": "12:10",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=43"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Philadelphia Phillies vs Miami Marlins",
+    "hora": "12:10",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=44"
+      }
+    ]
+  },
+  {
+    "nombre": "Switzerland National League · Rapperswil vs Geneve-Servette HC",
+    "hora": "12:45",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "TV4 Sportkanalen (SE)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=73"
+      }
+    ]
+  },
+  {
+    "nombre": "Saudi Arabia Pro League · Al Khaleej vs Al Kholood",
+    "hora": "13:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Thmanyah (SA)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=66"
+      }
+    ]
+  },
+  {
+    "nombre": "Saudi Arabia Pro League · Al Taawon vs Al Hilal",
+    "hora": "13:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Fox Sports 2 (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=82"
+      }
+    ]
+  },
+  {
+    "nombre": "Saudi Arabia Pro League · Al Hazm vs Al Ittihad",
+    "hora": "13:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Fox Deportes (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=87"
+      }
+    ]
+  },
+  {
+    "nombre": "Scotland Scottish Premiership · Dundee United vs Aberdeen",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Dundee (TV)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=7"
+      }
+    ]
+  },
+  {
+    "nombre": "England Championship · Hull City vs Derby County",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=31"
+      }
+    ]
+  },
+  {
+    "nombre": "England Championship · Swansea City vs Preston North End",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=32"
+      }
+    ]
+  },
+  {
+    "nombre": "England Championship · Watford vs Ipswich Town",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=33"
+      }
+    ]
+  },
+  {
+    "nombre": "England Championship · West Bromwich Albion vs Charlton Athletic",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=34"
+      }
+    ]
+  },
+  {
+    "nombre": "England Championship · Wrexham vs Portsmouth",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=35"
+      }
+    ]
+  },
+  {
+    "nombre": "England Championship · Blackburn Rovers vs Bristol City",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=36"
+      }
+    ]
+  },
+  {
+    "nombre": "England League One · Burton Albion vs Stockport County",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=37"
+      }
+    ]
+  },
+  {
+    "nombre": "England League One · Northampton Town vs Port Vale",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=38"
+      }
+    ]
+  },
+  {
+    "nombre": "England League One · Bradford City vs Rotherham United",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=39"
+      }
+    ]
+  },
+  {
+    "nombre": "England Championship · Middlesbrough vs Leicester City",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "V Sport Extra (SE)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=75"
+      }
+    ]
+  },
+  {
+    "nombre": "Europe UEFA Champions League · Internazionale vs Bodø / Glimt",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "TNT Sports 1 (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=1"
+      },
+      {
+        "nombre": "Blue Sport D 2 (CH)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=20"
+      },
+      {
+        "nombre": "M. Liga de Campeones 3 (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=27"
+      },
+      {
+        "nombre": "TUDN (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
+      },
+      {
+        "nombre": "Canal+ Foot (FR)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=50"
+      },
+      {
+        "nombre": "Viaplay Sport (SE)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=78"
+      }
+    ]
+  },
+  {
+    "nombre": "Europe UEFA Champions League · Bayer Leverkusen vs Olympiakos Piraeus",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "TNT Sports 2 (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=2"
+      },
+      {
+        "nombre": "Cosmote Sport 2 (GR)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=24"
+      },
+      {
+        "nombre": "M. Liga de Campeones 2 (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=28"
+      },
+      {
+        "nombre": "Canal+ Sport (FR)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=53"
+      },
+      {
+        "nombre": "V Sport Premium (SE)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=76"
+      }
+    ]
+  },
+  {
+    "nombre": "Europe UEFA Champions League · Newcastle United vs Qarabag",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Amazon Prime Video (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=4"
+      },
+      {
+        "nombre": "CBS Sports Network (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=8"
+      },
+      {
+        "nombre": "Canal+ Sport360 (FR)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=52"
+      },
+      {
+        "nombre": "V Sport Football (SE)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=77"
+      }
+    ]
+  },
+  {
+    "nombre": "England Championship · Southampton vs Queens Park Rangers",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Sky Sports Football (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=5"
+      }
+    ]
+  },
+  {
+    "nombre": "Europe UEFA Champions League · Simulcast",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Cosmote Sport 1 (GR)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=23"
+      }
+    ]
+  },
+  {
+    "nombre": "Argentina Primera Division · Platense vs Defensa y Justicia",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "TNT Sports Argentina (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=26"
+      }
+    ]
+  },
+  {
+    "nombre": "CONCACAF Championship U20 · Trinidad and Tobago U20 vs Bermuda U20",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Fox Soccer Plus (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=83"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Kansas City Royals vs Cincinnati Reds",
+    "hora": "14:05",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=45"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Milwaukee Brewers vs Athletics",
+    "hora": "14:05",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=80"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Arizona Diamondbacks vs Texas Rangers",
+    "hora": "14:05",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=81"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Chicago White Sox vs Seattle Mariners",
+    "hora": "14:10",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=84"
+      }
+    ]
+  },
+  {
+    "nombre": "MLB · Los Angeles Angel vs Colorado Rockies",
+    "hora": "14:10",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "MLBtv (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=85"
+      }
+    ]
+  },
+  {
+    "nombre": "CONCACAF Championship U20 · Saint Vincent U20 vs Anguilla U20",
+    "hora": "15:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-02-24",
+    "embeds": [
+      {
+        "nombre": "Fox Sports 2 (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=82"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Bundesliga: Wolfsburg - St. Pauli",
+    "hora": "18:30",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-01-14",
+    "embeds": [
+      {
+        "nombre": "beIN max 6",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F6"
+      },
+      {
+        "nombre": "DE bundliga1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F111"
+      },
+      {
+        "nombre": "DE bundliga6",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F116"
+      }
+    ]
+  }
+]
