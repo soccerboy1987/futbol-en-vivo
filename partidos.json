@@ -254,17 +254,18 @@
     "fecha": "2026-02-27",
     "embeds": [
       {
+        "nombre": "PT SPORT 1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/SportTV1%5BPortugal%5D"
+      },
+      {
         "nombre": "Sport TV1 (PT)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=21"
       },
       {
         "nombre": "DE Sportdigital Fussball",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F125"
-      },
-      {
-        "nombre": "PT SPORT 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F144"
       }
+      
     ]
   },
   {
@@ -276,6 +277,10 @@
     "embeds": [
       {
         "nombre": "TNTCHILE Premium",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet12009038"
+      },
+      {
+        "nombre": "TNTCHILE Premium opc2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F83"
       },
       {
@@ -293,6 +298,10 @@
     "embeds": [
       {
         "nombre": "Liga1MAX",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet12071747"
+      },
+      {
+        "nombre": "Liga1MAX opc2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F84"
       }
     ]
