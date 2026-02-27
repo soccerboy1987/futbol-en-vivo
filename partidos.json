@@ -29,6 +29,10 @@
     "embeds": [
       {
         "nombre": "NL ESPN 2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPN2%5BNetherlands%5D"
+      },
+      {
+        "nombre": "NL ESPN 2 OPC2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F142"
       },
       {
@@ -51,6 +55,10 @@
       {
         "nombre": "Fox Deportes (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=87"
+      },
+      {
+        "nombre": "Fox SOCCER Plus",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/FoxSoccerPlus%5BUSA%5D"
       }
     ]
   },
