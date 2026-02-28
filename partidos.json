@@ -82,6 +82,10 @@
       {
         "nombre": "ESPN3MX",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F99"
+      },
+      {
+        "nombre": "ESPN3MX OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet12061463"
       }
     ]
   },
@@ -99,7 +103,16 @@
       {
         "nombre": "Azteca 7 (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=28"
+      },
+      {
+        "nombre": "Azteca 7 (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11983080"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
       }
+
     ]
   },
   {
@@ -116,6 +129,10 @@
       {
         "nombre": "TUDN (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=29"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/TUDN%5BUSA%5D"
       }
     ]
   },
@@ -142,6 +159,10 @@
       {
         "nombre": "Liga1MAX",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F84"
+      },
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet12071748"
       }
     ]
   },
@@ -159,6 +180,10 @@
       {
         "nombre": "Win+ Futbol (CO)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=84"
+      },
+      {
+        "nombre": "Win+ Futbol (CO)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet12061488"
       }
     ]
   },
@@ -261,6 +286,10 @@
       {
         "nombre": "Azteca 7",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F108"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
       }
     ]
   },
@@ -295,6 +324,10 @@
       {
         "nombre": "TUDN (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=29"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/TUDN%5BUSA%5D"
       }
     ]
   },
