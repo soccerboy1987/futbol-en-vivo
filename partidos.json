@@ -1,251 +1,5 @@
 [
   {
-    "nombre": "Moto3: Grand Prix de Thaïlande\tLa course des Moto 3 Vs (CH14fr)",
-    "hora": "23:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-27",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "MotoGP: Grand Prix de Thaïlande Essais qualificatifs 1 et 2 des Moto 3 Vs (CH14fr)",
-    "hora": "23:45",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-27",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "Moto2: Grand Prix de Thaïlande\tLa course des Moto 2 Vs (CH14fr)",
-    "hora": "00:15",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "Moto3: Grand Prix de Thaïlande Essais qualificatifs 1 et 2 des Moto 2 Vs (CH14fr)",
-    "hora": "00:40",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "Moto2: Grand Prix de Thaïlande\tLa course Sprint des Moto GP Vs (CH14fr)",
-    "hora": "02:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "MotoGP: Grand Prix de Thaïlande\tLa course des Moto GP Vs (CH14fr)",
-    "hora": "02:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "Bundesliga 2: bundesliga 2 SIMULCAST ",
-    "hora": "06:00",
-    "liga": "soccer",
-    "logo": "logos/liga_bundesliga.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "DE bundliga2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F112"
-      },
-      {
-        "nombre": "Sky Sport Bundesliga 2 (DE)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=12"
-      }
-    ]
-  },
-  {
-    "nombre": "Bundesliga 2: Arminia Bielefeld Vs Hannover",
-    "hora": "06:00",
-    "liga": "soccer",
-    "logo": "logos/liga_bundesliga.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "DE bundliga5",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F115"
-      },
-      {
-        "nombre": "Sky Sport Bundesliga 5 (DE)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=15"
-      }
-    ]
-  },
-  {
-    "nombre": "Bundesliga 2: Holstein Kiel Vs Elversberg",
-    "hora": "06:00",
-    "liga": "soccer",
-    "logo": "logos/liga_bundesliga.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "DE bundliga4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F114"
-      },
-      {
-        "nombre": "EVENTOS CH",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://www2.sprtsonline.click/channels/hd/hd9.php"
-      },
-      {
-        "nombre": "Sky Sport Bundesliga 4 (DE)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=14"
-      }
-    ]
-  },
-  {
-    "nombre": "Bundesliga 2: Kaiserslautern Vs Paderborn",
-    "hora": "06:00",
-    "liga": "soccer",
-    "logo": "logos/liga_bundesliga.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "beIN max 4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F4"
-      },
-      {
-        "nombre": "EVENTOS CH",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://www2.sprtsonline.click/channels/pt/eleven3.php"
-      },
-      {
-        "nombre": "Sky Sport Bundesliga 3 (DE)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=13"
-      }
-    ]
-  },
-  {
-    "nombre": "Championship: Derby Vs Blackburn",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT37",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F190"
-      },
-      {
-        "nombre": "V Sport Football (SE)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=78"
-      }
-    ]
-  },
-  {
-    "nombre": "Championship: Leicester Vs Norwich",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "EVENTOS CH",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://www2.sprtsonline.click/channels/pt/sporttv3.php"
-      },
-      {
-        "nombre": "EVENTOS",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch2.php"
-      },
-      {
-        "nombre": "Sky Sports Football (GB)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=5"
-      },
-      {
-        "nombre": "ESPN2MX",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F98"
-      },
-      {
-        "nombre": "GR SPORT 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F148"
-      }
-    ]
-  },
-  {
-    "nombre": "Championship: Portsmouth Vs Hull",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT38",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F191"
-      },
-      {
-        "nombre": "CBS Sports Network (US)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=8"
-      }
-    ]
-  },
-  {
-    "nombre": "Premier League: Bournemouth Vs Sunderland",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "EVENTOS CH",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://www2.sprtsonline.click/channels/hd/hd1.php"
-      },
-      {
-        "nombre": "EVENTOS CH",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch1.php"
-      },
-      {
-        "nombre": "ES DAZN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F56"
-      },
-      {
-        "nombre": "Universo (ES)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
-      },
-      {
-        "nombre": "ESPN1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F87"
-      }
-    ]
-  },
-  {
     "nombre": "Liga AUF Uruguaya: Albion Vs Racing Montevideo",
     "hora": "06:45",
     "liga": "soccer",
@@ -397,7 +151,7 @@
     ]
   },
   {
-    "nombre": "Bundesliga: bundesliga konferenz Vs ",
+    "nombre": "Bundesliga: bundesliga konferenz",
     "hora": "08:30",
     "liga": "soccer",
     "logo": "logos/liga_bundesliga.png",
@@ -417,8 +171,8 @@
     "fecha": "2026-02-28",
     "embeds": [
       {
-        "nombre": "beIN max 6",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F6"
+        "nombre": "SKY bundliga2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/SkyBundesliga2%5BGermany%5D"
       },
       {
         "nombre": "DE bundliga2",
@@ -434,8 +188,8 @@
     "fecha": "2026-02-28",
     "embeds": [
       {
-        "nombre": "beIN max 5",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F5"
+        "nombre": "ELEVEN PT 1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ElevenSports1%5BPoland%5D"
       },
       {
         "nombre": "DE bundliga1",
@@ -443,7 +197,7 @@
       },
       {
         "nombre": "DE bundliga6",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F116"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/DigiSport3%5BRomania%5D"
       }
     ]
   },
@@ -456,7 +210,7 @@
     "embeds": [
       {
         "nombre": "beIN max 4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F4"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11470632"
       },
       {
         "nombre": "DE bundliga4",
@@ -473,7 +227,7 @@
     "embeds": [
       {
         "nombre": "beIN max 7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F7"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11470627"
       },
       {
         "nombre": "DE bundliga2",
