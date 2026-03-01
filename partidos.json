@@ -1,57 +1,5 @@
 [
   {
-    "nombre": "MotoGP: Grand Prix de Thaïlande Warm Up des Moto GP Vs (CH14fr)",
-    "hora": "21:35",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "Moto3: Grand Prix de Thaïlande La course des Moto 3 Vs (CH14fr)",
-    "hora": "23:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-28",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "Moto2: Grand Prix de Thaïlande La course des Moto 2 Vs (CH14fr)",
-    "hora": "00:15",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-01",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
-    "nombre": "MotoGP: Grand Prix de Thaïlande La course des Moto GP Vs (CH11fr)",
-    "hora": "02:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-01",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
     "nombre": "Eredivisie: Zwolle Vs Ajax",
     "hora": "05:15",
     "liga": "soccer",
