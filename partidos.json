@@ -17,23 +17,6 @@
     ]
   },
   {
-    "nombre": "Liga Portugal: Tondela Vs Rio Ave",
-    "hora": "14:15",
-    "liga": "soccer",
-    "logo": "logos/liga_portugal.png",
-    "fecha": "2026-03-09",
-    "embeds": [
-      {
-        "nombre": "PT SPORT 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F144"
-      },
-      {
-        "nombre": "Sport TV1 (PT)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=21"
-      }
-    ]
-  },
-  {
     "nombre": "Liga AUF Uruguaya: Cerro Largo Vs Montevideo City",
     "hora": "15:30",
     "liga": "soccer",
