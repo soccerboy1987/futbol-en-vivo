@@ -45,15 +45,15 @@
     "embeds": [
       {
         "nombre": "FOX Sports 2 (US)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=82"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F70"
       },
       {
         "nombre": "FOX Deportes (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=87"
       },
       {
-        "nombre": "FOX Deportes (ES)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F70"
+        "nombre": "FOX Deportes OPC3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://gopst.link/ch?id=70"
       }
     ]
   },
@@ -71,6 +71,10 @@
       {
         "nombre": "Sky Sports+ (GB)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=32"
+      },
+      {
+        "nombre": "Sky Sports+ (GB)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://gopst.link/ch?id=32"
       }
     ]
   },
