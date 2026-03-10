@@ -1,6 +1,6 @@
 [
   {
-    "nombre": "UEFA CHAMPIONS LEAGUE: Galatasaray Vs Liverpool",
+    "nombre": "Ligue Des Champions: Galatasaray - Liverpool",
     "hora": "11:45",
     "liga": "soccer",
     "logo": "logos/soccer.png",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "nombre": "Championship: Leicester Vs Bristol City",
+    "nombre": "Championship: Leicester - Bristol City",
     "hora": "13:45",
     "liga": "soccer",
     "logo": "logos/liga_premier.png",
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "nombre": "Championship: Millwall Vs Derby",
+    "nombre": "Championship: Millwall - Derby",
     "hora": "13:45",
     "liga": "soccer",
     "logo": "logos/liga_premier.png",
@@ -71,7 +71,7 @@
     ]
   },
   {
-    "nombre": "Championship: Portsmouth Vs Swansea",
+    "nombre": "Championship: Portsmouth - Swansea",
     "hora": "13:45",
     "liga": "soccer",
     "logo": "logos/liga_premier.png",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "nombre": "Championship: Sheffield F ed Vs F atford",
+    "nombre": "Championship: Sheffield Wed - Watford",
     "hora": "13:45",
     "liga": "soccer",
     "logo": "logos/liga_premier.png",
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "nombre": "Championship: F rexham Vs Hull",
+    "nombre": "Championship: Wrexham - Hull",
     "hora": "13:45",
     "liga": "soccer",
     "logo": "logos/liga_premier.png",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "nombre": "EuroLeague: Paris Vs Olympiacos",
+    "nombre": "EuroLeague: Paris - Olympiacos",
     "hora": "13:45",
     "liga": "soccer",
     "logo": "logos/soccer.png",
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "nombre": "Championship: Stoke Vs Ipswich",
+    "nombre": "Championship: Stoke - Ipswich",
     "hora": "14:00",
     "liga": "soccer",
     "logo": "logos/liga_premier.png",
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "nombre": "UEFA CHAMPIONS LEAGUE: Atalanta Vs Bayern Munich",
+    "nombre": "Ligue Des Champions: Atalanta - Bayern Munich",
     "hora": "14:00",
     "liga": "soccer",
     "logo": "logos/soccer.png",
@@ -189,7 +189,7 @@
     ]
   },
   {
-    "nombre": "UEFA CHAMPIONS LEAGUE: Atl. Madrid Vs Tottenham",
+    "nombre": "Ligue Des Champions: Atl. Madrid - Tottenham",
     "hora": "14:00",
     "liga": "soccer",
     "logo": "logos/soccer.png",
@@ -222,7 +222,7 @@
     ]
   },
   {
-    "nombre": "UEFA CHAMPIONS LEAGUE: Newcastle Vs Barcelona",
+    "nombre": "Ligue Des Champions: Newcastle - Barcelona",
     "hora": "14:00",
     "liga": "soccer",
     "logo": "logos/soccer.png",
@@ -267,7 +267,7 @@
     ]
   },
   {
-    "nombre": "Torneo LPF: Independiente Vs Union de Santa Fe",
+    "nombre": "Torneo LPF: Independiente - Union de Santa Fe",
     "hora": "16:45",
     "liga": "soccer",
     "logo": "logos/liga_argentina.png",
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "nombre": "Torneo LPF: Tigre Vs Velez Sarsfield",
+    "nombre": "Torneo LPF: Tigre - Velez Sarsfield",
     "hora": "16:45",
     "liga": "soccer",
     "logo": "logos/liga_argentina.png",
@@ -293,7 +293,7 @@
     ]
   },
   {
-    "nombre": "Concacaf Champions Cup: Philadelphia Union Vs Club America",
+    "nombre": "Concacaf Champions Cup: Philadelphia Union - Club America",
     "hora": "17:00",
     "liga": "soccer",
     "logo": "logos/liga_concachampions.png",
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "nombre": "NBA: Philadelphia 76ers Vs Memphis Grizzlies",
+    "nombre": "NBA: Philadelphia 76ers - Memphis Grizzlies",
     "hora": "17:00",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "nombre": "NHL: Boston Bruins Vs Los Angeles Kings",
+    "nombre": "NHL: Boston Bruins - Los Angeles Kings",
     "hora": "17:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -332,7 +332,7 @@
     ]
   },
   {
-    "nombre": "NHL: Buffalo Sabres Vs San Jose Sharks",
+    "nombre": "NHL: Buffalo Sabres - San Jose Sharks",
     "hora": "17:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -345,7 +345,7 @@
     ]
   },
   {
-    "nombre": "NHL: Carolina Hurricanes Vs Pittsburgh Penguins",
+    "nombre": "NHL: Carolina Hurricanes - Pittsburgh Penguins",
     "hora": "17:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -358,7 +358,7 @@
     ]
   },
   {
-    "nombre": "NHL: Florida Panthers Vs Detroit Red F ings",
+    "nombre": "NHL: Florida Panthers - Detroit Red Wings",
     "hora": "17:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -371,7 +371,7 @@
     ]
   },
   {
-    "nombre": "NHL: Montreal Canadiens Vs Toronto Maple Leafs",
+    "nombre": "NHL: Montreal Canadiens - Toronto Maple Leafs",
     "hora": "17:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "nombre": "NHL: New York Rangers Vs Calgary Flames",
+    "nombre": "NHL: New York Rangers - Calgary Flames",
     "hora": "17:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -397,7 +397,7 @@
     ]
   },
   {
-    "nombre": "NHL: Tampa Bay Lightning Vs Columbus Blue Jackets",
+    "nombre": "NHL: Tampa Bay Lightning - Columbus Blue Jackets",
     "hora": "17:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -410,7 +410,7 @@
     ]
   },
   {
-    "nombre": "Liga Betplay Dimayor: Bucaramanga Vs Pereira",
+    "nombre": "Liga Betplay Dimayor: Bucaramanga - Pereira",
     "hora": "17:20",
     "liga": "soccer",
     "logo": "logos/liga_colombia.png",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "nombre": "NBA: Atlanta Hawks Vs Dallas Mavericks",
+    "nombre": "NBA: Atlanta Hawks - Dallas Mavericks",
     "hora": "17:30",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -436,7 +436,7 @@
     ]
   },
   {
-    "nombre": "NBA: Brooklyn Nets Vs Detroit Pistons",
+    "nombre": "NBA: Brooklyn Nets - Detroit Pistons",
     "hora": "17:30",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -449,7 +449,7 @@
     ]
   },
   {
-    "nombre": "NBA: Miami Heat Vs F ashington F izards",
+    "nombre": "NBA: Miami Heat - Washington Wizards",
     "hora": "17:30",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "nombre": "NHL: St. Louis Blues Vs New York Islanders",
+    "nombre": "NHL: St. Louis Blues - New York Islanders",
     "hora": "17:30",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -475,7 +475,7 @@
     ]
   },
   {
-    "nombre": "NBA: Houston Rockets Vs Toronto Raptors",
+    "nombre": "NBA: Houston Rockets - Toronto Raptors",
     "hora": "18:00",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -488,7 +488,7 @@
     ]
   },
   {
-    "nombre": "NBA: Milwaukee Bucks Vs Phoenix Suns",
+    "nombre": "NBA: Milwaukee Bucks - Phoenix Suns",
     "hora": "18:00",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -501,7 +501,7 @@
     ]
   },
   {
-    "nombre": "NBA: San Antonio Spurs Vs Boston Celtics",
+    "nombre": "NBA: San Antonio Spurs - Boston Celtics",
     "hora": "18:00",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "nombre": "NHL: Dallas Stars Vs Vegas Golden Knights",
+    "nombre": "NHL: Dallas Stars - Vegas Golden Knights",
     "hora": "18:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -535,7 +535,7 @@
     ]
   },
   {
-    "nombre": "NHL: Minnesota F ild Vs Utah Mammoth",
+    "nombre": "NHL: Minnesota Wild - Utah Mammoth",
     "hora": "18:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -548,7 +548,7 @@
     ]
   },
   {
-    "nombre": "Copa Libertadores: Botafogo RJ (Bra) Vs Barcelona SC (Ecu)",
+    "nombre": "Copa Libertadores: Botafogo RJ (Bra) - Barcelona SC (Ecu)",
     "hora": "18:30",
     "liga": "soccer",
     "logo": "logos/liga_libertadores.png",
@@ -573,7 +573,7 @@
     ]
   },
   {
-    "nombre": "NHL: F innipeg Jets Vs Anaheim Ducks",
+    "nombre": "NHL: Winnipeg Jets - Anaheim Ducks",
     "hora": "18:30",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -586,7 +586,7 @@
     ]
   },
   {
-    "nombre": "Serie A Bresil: Mirassol Vs Santos",
+    "nombre": "Serie A Bresil: Mirassol - Santos",
     "hora": "18:30",
     "liga": "soccer",
     "logo": "logos/liga_italia.png",
@@ -599,7 +599,7 @@
     ]
   },
   {
-    "nombre": "Concacaf Champions Cup: Monterrey Vs Cruz Azul",
+    "nombre": "Concacaf Champions Cup: Monterrey - Cruz Azul",
     "hora": "19:00",
     "liga": "soccer",
     "logo": "logos/liga_concachampions.png",
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "nombre": "Torneo LPF: Newells Old Boys Vs Platense",
+    "nombre": "Torneo LPF: Newells Old Boys - Platense",
     "hora": "19:00",
     "liga": "soccer",
     "logo": "logos/liga_argentina.png",
@@ -625,7 +625,7 @@
     ]
   },
   {
-    "nombre": "Torneo LPF: Sarmiento Junin Vs Racing Club",
+    "nombre": "Torneo LPF: Sarmiento Junin - Racing Club",
     "hora": "19:00",
     "liga": "soccer",
     "logo": "logos/liga_argentina.png",
@@ -638,7 +638,7 @@
     ]
   },
   {
-    "nombre": "Liga Mx Femenil: Guadalajara Chivas F Vs Club America F ",
+    "nombre": "Liga Mx Women: Guadalajara Chivas W - Club America W",
     "hora": "19:07",
     "liga": "soccer",
     "logo": "logos/liga_mx.png",
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "nombre": "Liga Betplay Dimayor: Junior Vs Atl. Nacional",
+    "nombre": "Liga Betplay Dimayor: Junior - Atl. Nacional",
     "hora": "19:30",
     "liga": "soccer",
     "logo": "logos/liga_colombia.png",
@@ -664,7 +664,7 @@
     ]
   },
   {
-    "nombre": "NBA: Golden State F arriors Vs Chicago Bulls",
+    "nombre": "NBA: Golden State Warriors - Chicago Bulls",
     "hora": "20:00",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -677,7 +677,7 @@
     ]
   },
   {
-    "nombre": "NBA: Portland Trail Blazers Vs Charlotte Hornets",
+    "nombre": "NBA: Portland Trail Blazers - Charlotte Hornets",
     "hora": "20:00",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -690,7 +690,7 @@
     ]
   },
   {
-    "nombre": "NBA: Sacramento Kings Vs Indiana Pacers",
+    "nombre": "NBA: Sacramento Kings - Indiana Pacers",
     "hora": "20:00",
     "liga": "nba",
     "logo": "logos/nba.png",
@@ -703,7 +703,7 @@
     ]
   },
   {
-    "nombre": "NHL: Colorado Avalanche Vs Edmonton Oilers",
+    "nombre": "NHL: Colorado Avalanche - Edmonton Oilers",
     "hora": "20:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -720,7 +720,7 @@
     ]
   },
   {
-    "nombre": "NHL: Seattle Kraken Vs Nashville Predators",
+    "nombre": "NHL: Seattle Kraken - Nashville Predators",
     "hora": "20:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
@@ -733,7 +733,7 @@
     ]
   },
   {
-    "nombre": "Concacaf Champions Cup: Los Angeles FC Vs Alajuelense",
+    "nombre": "Concacaf Champions Cup: Los Angeles FC - Alajuelense",
     "hora": "21:00",
     "liga": "soccer",
     "logo": "logos/liga_concachampions.png",
@@ -746,7 +746,7 @@
     ]
   },
   {
-    "nombre": "NBA: Los Angeles Lakers Vs Minnesota Timberwolves",
+    "nombre": "NBA: Los Angeles Lakers - Minnesota Timberwolves",
     "hora": "21:00",
     "liga": "nba",
     "logo": "logos/nba.png",

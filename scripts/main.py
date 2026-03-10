@@ -335,6 +335,7 @@ def detect_liga(texto):
         return "nba", "logos/nba.png"
     if "nhl" in t:
         return "nhl", "logos/nhl.png"
+        
 
     # Buscar coincidencia en mapa
     for key, value in LIGAS_MAP.items():
