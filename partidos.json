@@ -48,7 +48,7 @@
     "nombre": "World Baseball Classic · Canada vs Cuba",
     "hora": "13:00",
     "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "logo": "logos/baseball.png",
     "fecha": "2026-03-11",
     "embeds": [
       {
@@ -319,7 +319,7 @@
     "nombre": "World Baseball Classic · Israel vs Netherlands",
     "hora": "17:00",
     "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "logo": "logos/baseball.png",
     "fecha": "2026-03-10",
     "embeds": [
       {
@@ -842,7 +842,7 @@
     "nombre": "World Baseball Classic · Italy vs USA",
     "hora": "19:00",
     "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "logo": "logos/baseball.png",
     "fecha": "2026-03-10",
     "embeds": [
       {
