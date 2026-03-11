@@ -70,6 +70,10 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch10.php"
+      },
+      {
         "nombre": "ES Vamos",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F55"
       },
@@ -79,7 +83,11 @@
       },
       {
         "nombre": "TUDN USA",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F68"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=tudn"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/vivo/canal.php?stream=tudn"
       }
     ]
   },
@@ -228,6 +236,10 @@
       {
         "nombre": "ESPN4MX",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F100"
+      },
+      {
+        "nombre": "ESPN4MX",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn4mx"
       }
     ]
   },
