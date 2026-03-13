@@ -55,6 +55,19 @@
     ]
   },
   {
+    "nombre": "World Baseball Classic · Puerto Rico vs Italy",
+    "hora": "13:00",
+    "liga": "soccer",
+    "logo": "logos/baseball.png",
+    "fecha": "2026-03-14",
+    "embeds": [
+      {
+        "nombre": "FOX Sports 1 (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=81"
+      }
+    ]
+  },
+  {
     "nombre": "Bundesliga: B. Monchengladbach Vs St. Pauli",
     "hora": "13:30",
     "liga": "soccer",
@@ -275,6 +288,23 @@
     ]
   },
   {
+    "nombre": "World Baseball Classic · South Korea vs Dominican Republic",
+    "hora": "16:30",
+    "liga": "soccer",
+    "logo": "logos/baseball.png",
+    "fecha": "2026-03-13",
+    "embeds": [
+      {
+        "nombre": "Sportsnet 360 (CA)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=31"
+      },
+      {
+        "nombre": "FOX Sports 2 (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=82"
+      }
+    ]
+  },
+  {
     "nombre": "Campeonato Itaú Chile: A. Italiano Vs D. Concepcion",
     "hora": "17:00",
     "liga": "soccer",
@@ -405,6 +435,19 @@
       {
         "nombre": "EXTRA SPORT31",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F184"
+      }
+    ]
+  },
+  {
+    "nombre": "World Baseball Classic · USA vs Canada",
+    "hora": "18:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-13",
+    "embeds": [
+      {
+        "nombre": "Sportsnet One (CA)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=32"
       }
     ]
   },
