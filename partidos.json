@@ -55,19 +55,6 @@
     ]
   },
   {
-    "nombre": "World Baseball Classic · Puerto Rico vs Italy",
-    "hora": "16:30",
-    "liga": "soccer",
-    "logo": "logos/baseball.png",
-    "fecha": "2026-03-13",
-    "embeds": [
-      {
-        "nombre": "FOX Sports 1 (US)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=81"
-      }
-    ]
-  },
-  {
     "nombre": "Bundesliga: B. Monchengladbach Vs St. Pauli",
     "hora": "13:30",
     "liga": "soccer",
