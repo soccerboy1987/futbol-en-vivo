@@ -9,6 +9,10 @@
       {
         "nombre": "NL ESPN 2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F142"
+      },
+      {
+        "nombre": "NL ESPN 2 opc2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn2_nl"
       }
     ]
   },
@@ -45,7 +49,7 @@
         "url": "https://x4bnd7lq.fubohd.com/foxdeportes/mono.m3u8?token=e2a9ab97035cae9048163a6c79077af4e7a5bcb9-74-1773445926-1773427926"
       },
       {
-        "nombre": "FOX Deportes",
+        "nombre": "FOX Deportes opc2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
       }
     ]
@@ -58,16 +62,16 @@
     "fecha": "2026-03-13",
     "embeds": [
       {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+        "nombre": "ESPN 5",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn5"
       },
       {
-        "nombre": "DE bundliga1",
+        "nombre": "ESPN 5 OPC2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F111"
       },
       {
-        "nombre": "ESPN5",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F91"
+        "nombre": "ESPN5 OPC3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/vivo/canal.php?stream=espn5"
       }
     ]
   },
@@ -111,6 +115,10 @@
       {
         "nombre": "ES LALIGA HYPERMOTION",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F53"
+      },
+      {
+        "nombre": "ES LALIGA HYPERMOTION",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=hypermotion1"
       }
     ]
   },
