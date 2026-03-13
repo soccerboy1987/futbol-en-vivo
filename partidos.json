@@ -134,8 +134,12 @@
     "fecha": "2026-03-13",
     "embeds": [
       {
-        "nombre": "LIGUE 1 FR",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F20"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch7.php"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=disney5"
       },
       {
         "nombre": "beIN En español",
@@ -151,16 +155,16 @@
     "fecha": "2026-03-13",
     "embeds": [
       {
-        "nombre": "IT SKYCALCIO",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F138"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch9.php"
       },
       {
         "nombre": "EXTRA SPORT4",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F158"
       },
       {
-        "nombre": "PT SPORT 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F145"
+        "nombre": "DISNEY",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=disney6"
       },
       {
         "nombre": "GR SPORT 2",
@@ -205,8 +209,12 @@
     "fecha": "2026-03-13",
     "embeds": [
       {
-        "nombre": "beIN max 9",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F9"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
         "nombre": "ES DAZN liga",
@@ -215,6 +223,14 @@
       {
         "nombre": "ESPN Deportes",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
+      },
+      {
+        "nombre": "ESPN Deportes OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espndeportes"
+      },
+      {
+        "nombre": "SKY SPORTS LA LIGA",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga"
       },
       {
         "nombre": "ESPN4",
