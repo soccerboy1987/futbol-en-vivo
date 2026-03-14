@@ -279,6 +279,9 @@ LIGAS_MAP = {
      # Uruguay
     "liga auf uruguaya": ("soccer", "logos/liga_uruguay.png"),
 
+    # Italia
+    "serie a ": ("soccer", "logos/liga_italia.png"),
+    
     # Brasil
     "serie a bresil": ("soccer", "logos/liga_brasil.png"),
 
@@ -323,6 +326,9 @@ LIGAS_MAP = {
 
     # Liga MLS
     "mls": ("soccer", "logos/liga_mls.png"),
+
+    # formula 1
+    "formula 1": ("soccer", "logos/formula1.png"),
 
 }
 
