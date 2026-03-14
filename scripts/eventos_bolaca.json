@@ -1,18 +1,5 @@
 [
   {
-    "nombre": "Liga Betplay Dimayor: Atl. Nacional - Llaneros",
-    "hora": "19:30",
-    "liga": "soccer",
-    "logo": "logos/liga_colombia.png",
-    "fecha": "2026-03-13",
-    "embeds": [
-      {
-        "nombre": "WINsport+",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
-      }
-    ]
-  },
-  {
     "nombre": "Liga Mx Women: Club America W - Club Leon W",
     "hora": "20:00",
     "liga": "soccer",
