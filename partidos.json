@@ -141,8 +141,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F70"
       },
       {
-        "nombre": "ESPN1MX",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F97"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch9.php"
       },
       {
         "nombre": "ESPN4",
@@ -151,7 +151,7 @@
     ]
   },
   {
-    "nombre": "Bundesliga: bundesliga konferenz Vs ",
+    "nombre": "Bundesliga: bundesliga konferenz ",
     "hora": "08:30",
     "liga": "soccer",
     "logo": "logos/liga_bundesliga.png",
@@ -171,8 +171,8 @@
     "fecha": "2026-03-14",
     "embeds": [
       {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch4.php"
       },
       {
         "nombre": "DE bundliga1",
@@ -196,8 +196,8 @@
     "fecha": "2026-03-14",
     "embeds": [
       {
-        "nombre": "beIN max 5",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F5"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch5.php"
       },
       {
         "nombre": "DE bundliga2",
