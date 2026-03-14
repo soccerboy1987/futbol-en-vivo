@@ -99,8 +99,12 @@
     "fecha": "2026-03-14",
     "embeds": [
       {
-        "nombre": "beIN max 8",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F8"
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/https://st2.cdnstremgo-s.com/hls/futbol1.m3u8"
       },
       {
         "nombre": "ES DAZN liga",
@@ -112,7 +116,7 @@
       },
       {
         "nombre": "directv",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F94"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=dsports"
       }
     ]
   },
@@ -137,12 +141,8 @@
     "fecha": "2026-03-14",
     "embeds": [
       {
-        "nombre": "IT DAZN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F137"
-      },
-      {
-        "nombre": "PT SPORT 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F145"
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/https://storage.googleapis.com/unikhsgyrbover3/mux_video_ts1/index-1.m3u8"
       },
       {
         "nombre": "ES M+ Liga de Campeones",
@@ -158,7 +158,7 @@
       },
       {
         "nombre": "ESPN4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F90"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn4"
       }
     ]
   },
@@ -425,8 +425,8 @@
     "fecha": "2026-03-14",
     "embeds": [
       {
-        "nombre": "beIN 3",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F3"
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
         "nombre": "ES m.laliga",
@@ -1003,8 +1003,8 @@
     "fecha": "2026-03-14",
     "embeds": [
       {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
         "nombre": "ES m.laliga",
