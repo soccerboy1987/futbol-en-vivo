@@ -138,6 +138,14 @@
       {
         "nombre": "ESPN1MX",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F97"
+      },
+      {
+        "nombre": "ESPN1MX OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espnmx"
+      },
+      {
+        "nombre": "ESPN1MX OPC3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fembed.saohgdasregions.fun%2Fembed2%2Fespnmexico.html"
       }
     ]
   },
