@@ -117,7 +117,7 @@
     "nombre": "Serie A: Inter Vs Atalanta",
     "hora": "08:00",
     "liga": "soccer",
-    "logo": "logos/liga_brasil.png",
+    "logo": "logos/liga_italia.png",
     "fecha": "2026-03-14",
     "embeds": [
       {
@@ -546,7 +546,7 @@
     "nombre": "Serie A: Napoli Vs Lecce",
     "hora": "11:00",
     "liga": "soccer",
-    "logo": "logos/liga_brasil.png",
+    "logo": "logos/liga_italia.png",
     "fecha": "2026-03-14",
     "embeds": [
       {
@@ -945,7 +945,7 @@
     "nombre": "Serie A: Udinese Vs Juventus",
     "hora": "13:45",
     "liga": "soccer",
-    "logo": "logos/liga_brasil.png",
+    "logo": "logos/liga_italia.png",
     "fecha": "2026-03-14",
     "embeds": [
       {
