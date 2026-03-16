@@ -1,31 +1,5 @@
 [
   {
-    "nombre": "Liga Betplay Dimayor: Junior Vs Fortaleza",
-    "hora": "19:30",
-    "liga": "soccer",
-    "logo": "logos/liga_colombia.png",
-    "fecha": "2026-03-15",
-    "embeds": [
-      {
-        "nombre": "WINsport+",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
-      }
-    ]
-  },
-  {
-    "nombre": "Liga Mx Women: Tigres UANL W Vs Queretaro W",
-    "hora": "20:00",
-    "liga": "soccer",
-    "logo": "logos/liga_mx.png",
-    "fecha": "2026-03-15",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT6",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F160"
-      }
-    ]
-  },
-  {
     "nombre": "NBA: Sacramento Kings Vs Utah Jazz",
     "hora": "20:00",
     "liga": "nba",
