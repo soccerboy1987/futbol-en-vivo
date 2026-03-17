@@ -1,68 +1,5 @@
 [
   {
-    "nombre": "EuroLeague: Hapoel Tel - Aviv - Paris",
-    "hora": "09:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-17",
-    "embeds": [
-      {
-        "nombre": "ES M+ Deportes4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F65"
-      }
-    ]
-  },
-  {
-    "nombre": "Youth League: Villarreal U19 - PSG U19",
-    "hora": "09:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-17",
-    "embeds": [
-      {
-        "nombre": "canal+ foot",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F12"
-      },
-      {
-        "nombre": "DE bundliga2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F112"
-      },
-      {
-        "nombre": "EXTRA SPORT7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F161"
-      },
-      {
-        "nombre": "EXTRA SPORT8",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F162"
-      }
-    ]
-  },
-  {
-    "nombre": "Super Lig: Fenerbahce - Gaziantep",
-    "hora": "11:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-17",
-    "embeds": [
-      {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
-      },
-      {
-        "nombre": "TR BeIN sport 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F151"
-      },
-      {
-        "nombre": "beIN En español",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F69"
-      },
-      {
-        "nombre": "ESPN4MX",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F100"
-      }
-    ]
-  },
-  {
     "nombre": "Ligue Des Champions: Sporting CP - Bodo/Glimt",
     "hora": "11:45",
     "liga": "soccer",
@@ -70,28 +7,16 @@
     "fecha": "2026-03-17",
     "embeds": [
       {
-        "nombre": "canal+ sport",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F13"
+        "nombre": "ESPN",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn"
       },
       {
-        "nombre": "UK EPL 3PM",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F131"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch3.php"
       },
       {
-        "nombre": "EXTRA SPORT8",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F162"
-      },
-      {
-        "nombre": "DE bundliga5",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F115"
-      },
-      {
-        "nombre": "DE dazn 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F123"
-      },
-      {
-        "nombre": "IT SKYCALCIO",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F138"
+        "nombre": "VER STREAM",
+        "url": "https://d1vgxtyrxlxxuv.cloudfront.net/status/1/fronts.woff2?fe9a5e"
       },
       {
         "nombre": "PT SPORT 1",
