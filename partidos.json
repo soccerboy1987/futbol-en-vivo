@@ -1,6 +1,6 @@
 [
   {
-    "nombre": "Moto3: GP du Brésil Moto3. Essais Vs (CH14fr)",
+    "nombre": "Moto3: GP du Brésil Moto3. Essais",
     "hora": "10:10",
     "liga": "soccer",
     "logo": "logos/motogp.png",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "nombre": "Moto2: GP du Brésil Moto2. Essais Vs (CH14fr)",
+    "nombre": "Moto2: GP du Brésil Moto2. Essais",
     "hora": "11:10",
     "liga": "soccer",
     "logo": "logos/motogp.png",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "nombre": "Bundesliga 2: bundesliga 2 konferenz Vs ",
+    "nombre": "Bundesliga 2: bundesliga 2 konferenz",
     "hora": "11:30",
     "liga": "soccer",
     "logo": "logos/liga_bundesliga.png",
