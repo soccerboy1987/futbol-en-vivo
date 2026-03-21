@@ -1,81 +1,4 @@
 [
- {
-    "nombre": "MotoGP · Brazilian Grand Prix",
-    "hora": "04:40",
-    "liga": "soccer",
-    "logo": "logos/motogp.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "TNT Sports 2 (GB)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=2"
-      },
-      {
-        "nombre": "DAZN MotoGP (ES)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=25"
-      },
-      {
-        "nombre": "Sky Sport Mix (DE)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=44"
-      }
-    ]
-  },
-  {
-    "nombre": "England Premier League · Brighton & Hove Albion vs Liverpool",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "EVENTOS",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch1.php"
-      },
-      {
-        "nombre": "USA Network (US)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=10"
-      }
-    ]
-  },
-  {
-    "nombre": "England Championship · Ipswich Town vs Millwall",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "Sky Sports Football (GB)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=4"
-      }
-    ]
-  },
-  {
-    "nombre": "England Championship · Derby County vs Birmingham City",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "Sky Sports+ (GB)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=31"
-      }
-    ]
-  },
-  {
-    "nombre": "England Championship · Blackburn Rovers vs Middlesbrough",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "V Sport Football (SE)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=79"
-      }
-    ]
-  },
   {
     "nombre": "Spain La Liga · Elche vs Mallorca",
     "hora": "07:00",
@@ -329,16 +252,28 @@
     "fecha": "2026-03-21",
     "embeds": [
       {
-        "nombre": "beIN max 9",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F9"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
+      },
+      {
+        "nombre": "ESPN Deportes (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=86"
+      },
+      {
+        "nombre": "ESPN Deportes OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espndeportes"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+      },
+      {
+        "nombre": "ESPN DEPORTES OPC 3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
       },
       {
         "nombre": "ES DAZN liga2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F52"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
       },
       {
         "nombre": "ESPN2",
@@ -353,9 +288,17 @@
     "logo": "logos/liga_española.png",
     "fecha": "2026-03-21",
     "embeds": [
+     {
+        "nombre": "LALIGA TV Hypermotion",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=hypermotion1"
+      },
       {
-        "nombre": "ES LALIGA HYPERMOTION2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F54"
+        "nombre": "LALIGA TV Hypermotion OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=26"
+      },
+      {
+        "nombre": "LALIGA TV Hypermotion opc3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F53"
       }
     ]
   },
@@ -682,6 +625,26 @@
     "logo": "logos/liga_española.png",
     "fecha": "2026-03-21",
     "embeds": [
+       {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
+      },
+      {
+        "nombre": "ESPN Deportes (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=86"
+      },
+      {
+        "nombre": "ESPN Deportes OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espndeportes"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+      },
+      {
+        "nombre": "ESPN DEPORTES OPC 3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
+      },
       {
         "nombre": "ES DAZN liga",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F51"
@@ -699,17 +662,29 @@
     "logo": "logos/liga_española.png",
     "fecha": "2026-03-21",
     "embeds": [
+       {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
+      },
       {
-        "nombre": "beIN max 8",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F8"
+        "nombre": "ESPN Deportes (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=86"
+      },
+      {
+        "nombre": "ESPN Deportes OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espndeportes"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+      },
+      {
+        "nombre": "ESPN DEPORTES OPC 3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
       },
       {
         "nombre": "ES m.laliga",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F49"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
       },
       {
         "nombre": "directv",
@@ -725,11 +700,15 @@
     "fecha": "2026-03-21",
     "embeds": [
       {
-        "nombre": "beIN max 7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F7"
+        "nombre": "LALIGA TV Hypermotion",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=hypermotion1"
       },
       {
-        "nombre": "ES LALIGA HYPERMOTION",
+        "nombre": "LALIGA TV Hypermotion OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=26"
+      },
+      {
+        "nombre": "LALIGA TV Hypermotion opc3",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F53"
       }
     ]
@@ -1082,17 +1061,29 @@
     "logo": "logos/liga_española.png",
     "fecha": "2026-03-21",
     "embeds": [
+       {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
+      },
       {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+        "nombre": "ESPN Deportes (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=86"
+      },
+      {
+        "nombre": "ESPN Deportes OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espndeportes"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+      },
+      {
+        "nombre": "ESPN DEPORTES OPC 3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
       },
       {
         "nombre": "ES m.laliga",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F49"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
       },
       {
         "nombre": "directv",
@@ -1108,11 +1099,15 @@
     "fecha": "2026-03-21",
     "embeds": [
       {
-        "nombre": "beIN max 8",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F8"
+        "nombre": "LALIGA TV Hypermotion",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=hypermotion1"
       },
       {
-        "nombre": "ES LALIGA HYPERMOTION",
+        "nombre": "LALIGA TV Hypermotion OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=26"
+      },
+      {
+        "nombre": "LALIGA TV Hypermotion opc3",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F53"
       }
     ]
