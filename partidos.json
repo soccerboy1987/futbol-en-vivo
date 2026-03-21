@@ -1,31 +1,5 @@
 [
   {
-    "nombre": "Liga AUF Uruguaya: Cerro Largo Vs Maldonado",
-    "hora": "15:00",
-    "liga": "soccer",
-    "logo": "logos/liga_uruguay.png",
-    "fecha": "2026-03-20",
-    "embeds": [
-      {
-        "nombre": "VTV plus",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F109"
-      }
-    ]
-  },
-  {
-    "nombre": "Liga Betplay Dimayor: Aguilas Vs America De Cali",
-    "hora": "15:00",
-    "liga": "soccer",
-    "logo": "logos/liga_colombia.png",
-    "fecha": "2026-03-20",
-    "embeds": [
-      {
-        "nombre": "WINsport+",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
-      }
-    ]
-  },
-  {
     "nombre": "NHL: Toronto Maple Leafs Vs Carolina Hurricanes",
     "hora": "17:00",
     "liga": "nhl",
